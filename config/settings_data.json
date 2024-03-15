@@ -3,6 +3,7 @@
     "storefront_hostname": "idempire.us",
     "type_header_font": "inter_n4",
     "type_body_font": "sans-serif",
+    "buttons_border_thickness": 0,
     "favicon": "shopify:\/\/shop_images\/photo_2024-03-14_17.53.26.jpg",
     "checkout_logo_image": "shopify:\/\/shop_images\/photo_2024-03-14_17.53.26.jpg",
     "checkout_logo_position": "center",
